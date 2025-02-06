@@ -24,5 +24,5 @@ BlockSeek combines state-of-the-art AI with blockchain technology to revolutioni
 ## Connect With Us
 
 - [GitHub Repository](https://github.com/smashound/blockseek.ai)
-- [Discord Community](https://discord.gg/blockseek)
 - [Twitter](https://twitter.com/blockseekai)
+- [Telegram](https://t.me/blockseekai)

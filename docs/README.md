@@ -29,6 +29,17 @@ Welcome to BlockSeek's official documentation. BlockSeek combines state-of-the-a
   - Enterprise-grade LLM & Agent APIs with extensive documentation
   - Seamless integration capabilities
 
+## 🎮 Try Our Demo!
+
+Experience BlockSeek's capabilities firsthand:
+
+- 🤖 Test our **AI Trading Assistant** in action
+- 📊 Explore real-time market data
+- 🛠️ Experiment with sample trading strategies
+- 📈 View live blockchain data analysis
+
+👉 **[Launch Interactive Demo](https://demo.blockseek.ai)**
+
 ## 📚 Documentation
 
 [Getting Started](./getting-started.md)

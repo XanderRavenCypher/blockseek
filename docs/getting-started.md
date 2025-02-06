@@ -47,13 +47,9 @@ The best way to stay updated with BlockSeek's development:
 - Development updates
 - Community announcements
 
-Follow us on [Twitter](https://twitter.com/blockseek) for the latest news and updates!
-
-## 📞 Contact Us
-
-Have questions? We're here to help:
-
-- Email: support@blockseek.ai
-- Twitter: [@BlockSeek](https://twitter.com/blockseek)
-
-Stay tuned for our official launch! We're excited to revolutionize cryptocurrency trading with AI-powered intelligence. 
+Follow us on [Twitter](https://twitter.com/blockseekai) for the latest news and updates!
+Join our [Telegram community](https://t.me/blockseekai) to:
+- Connect with other BlockSeek users
+- Get real-time development updates
+- Share feedback and suggestions
+- Participate in community discussions
