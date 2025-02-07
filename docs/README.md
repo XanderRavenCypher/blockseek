@@ -8,7 +8,8 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/blockseekai?style=social)](https://twitter.com/blockseekai)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](../LICENSE)
-[![Documentation](https://img.shields.io/badge/docs-up%20to%20date-brightgreen.svg)](https://docs.blockseek.ai)
+[![Demo](https://img.shields.io/badge/Demo-up%20to%20date-brightgreen.svg)](https://www.blockseek.ai)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+WyP2nPho-glkMzQ5)
 
 </div>
 
@@ -35,10 +36,10 @@ Experience BlockSeek's capabilities firsthand:
 
 - 🤖 Test our **AI Trading Assistant** in action
 - 📊 Explore real-time market data
-- 🛠️ Experiment with sample trading strategies
-- 📈 View live blockchain data analysis
+- 🛠️ Experiment with sample trading strategies (coming soon)
+- 📈 View live blockchain data analysis (coming soon)
 
-👉 **[Launch Interactive Demo](https://demo.blockseek.ai)**
+👉 **[Launch Interactive Demo](https://www.blockseek.ai)**
 
 ## 📚 Documentation
 
@@ -119,8 +120,7 @@ This project is licensed under the MIT License - see the [LICENSE](../LICENSE) f
 <div align="center">
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/blockseekai)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/blockseek)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/blockseek)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+WyP2nPho-glkMzQ5)
 
 </div>
 
@@ -132,6 +132,6 @@ This project is licensed under the MIT License - see the [LICENSE](../LICENSE) f
 
 Star our repository for notifications about releases, features, and updates.
 
-[Report Bug](https://github.com/blockseek/issues) · [Request Feature](https://github.com/blockseek/issues) · [Documentation](https://docs.blockseek.ai)
+[Report Bug](https://github.com/XanderRavenCypher/blockseek/issues) · [Request Feature](https://github.com/XanderRavenCypher/blockseek/issues) 
 
 </div> 

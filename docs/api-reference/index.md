@@ -32,5 +32,6 @@ We're currently working on comprehensive API documentation for BlockSeek's enter
 In the meantime:
 - Star our repository for notifications about documentation updates
 - Follow us on [Twitter](https://twitter.com/blockseekai) for announcements
+- Join our [Telegram](https://t.me/+WyP2nPho-glkMzQ5) community
 
 > **Note**: Expected documentation release: Q1 2025 

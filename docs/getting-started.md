@@ -48,7 +48,7 @@ The best way to stay updated with BlockSeek's development:
 - Community announcements
 
 Follow us on [Twitter](https://twitter.com/blockseekai) for the latest news and updates!
-Join our [Telegram community](https://t.me/blockseekai) to:
+Join our [Telegram community](https://t.me/+WyP2nPho-glkMzQ5) to:
 - Connect with other BlockSeek users
 - Get real-time development updates
 - Share feedback and suggestions

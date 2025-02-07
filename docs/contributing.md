@@ -12,7 +12,7 @@ The best ways to prepare for future contributions:
 
 - ⭐ Star and watch our repository for updates
 - Follow us on Twitter [@BlockSeekAI](https://twitter.com/blockseekai)
-- Join our Telegram community [@BlockSeekAI](https://t.me/blockseekai)
+- Join our Telegram community [@BlockSeekAI](https://t.me/+WyP2nPho-glkMzQ5)
 - Keep an eye on our upcoming releases
 
 We appreciate your enthusiasm and look forward to building the future of AI-powered trading together! 
